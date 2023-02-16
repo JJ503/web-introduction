@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+}
+
+table {
+    border: 1px solid #444444;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#summary {
+    text-align: left;
+    margin-left: 10px;
+}
+
+#title {
+    font-size: large;
+    font-weight: bold;
+}
